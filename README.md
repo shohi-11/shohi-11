@@ -1,7 +1,3 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/E7Y1F6k.png" alt="Shohilani Banner" width="100%" />
-</p>
 
 # 👋 Hi, I'm Shohilani
 

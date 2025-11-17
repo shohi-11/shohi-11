@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shohilani 👋
 
-<!--
-**shohi-11/shohi-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an entry-level **MERN Stack Developer** passionate about building clean, functional, and user-friendly web applications.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- 🛒 **E-commerce MERN App**  
+- ✅ **Todo MERN App** 
+
+### 📫 Contact
+GitHub: https://github.com/shohi-11
+Email: shohilanis@gmail.com
+
+⭐ *Actively building projects and open to internship/full-time opportunities!*
